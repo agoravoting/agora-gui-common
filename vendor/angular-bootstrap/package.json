@@ -1,0 +1,9 @@
+{
+  "name": "angular-bootstrap",
+  "license": "MIT",
+  "version": "0.10.0",
+  "author": {
+    "name": "2014 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)",
+    "url": "http://angular-ui.github.io/bootstrap/"
+  }
+}
